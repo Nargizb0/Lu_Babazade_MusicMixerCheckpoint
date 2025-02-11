@@ -1,0 +1,24 @@
+html {
+	box-sizing: border-box;
+}
+
+.hidden {
+    display: none;
+}
+
+body {
+	margin: 0;
+	border: 0;
+	background-repeat:no-repeat;
+	background-size: 600%;
+	background-color: #5c06a6;
+	color:#FFF;
+	font-family: 'Poppins', sans-serif;
+	min-width: 412px;
+	overflow-x: hidden;
+}
+
+header {
+	display: flex;
+	margin: auto;
+}
